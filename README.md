@@ -1,8 +1,9 @@
 # tic-tac-toe
 Title: "Tic-Tac-Toe" Project game
-This game made with Java, allows for a user("player") or two users to play once downloaded
-Upon each start a player will be assigned as X and the other O. 
-  The Game will prompt one of the two at random to play first
+
+This game made with Java, allows for a user("player") or two users to play once downloaded.
+Upon each start a player will be assigned as "X" and the other "O". 
+  The Game will prompt one of the two at random to play first.
   A board will print out with numbered positions (1-9). 
   To place your "X" or "O" at a position, type in a number that is on the board. 
   Turns will alternate. 
